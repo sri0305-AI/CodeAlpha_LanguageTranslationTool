@@ -30,7 +30,7 @@ python app.py
 └── README.md
 
 ## Project Output
-![Project_Output](Images/project_output.png)
+![Project_Output](https://github.com/sri0305-AI/CodeAlpha_LanguageTranslationTool/blob/main/Image/project_output.png)
 
 ## Author
 Sri Priyanka S
