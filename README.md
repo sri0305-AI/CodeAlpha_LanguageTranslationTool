@@ -29,7 +29,8 @@ python app.py
 ├── requirements.txt
 └── README.md
 
-##Project Output
+## Project Output
 ![Project_Output](Images/project_output.png)
+
 ## Author
 Sri Priyanka S
